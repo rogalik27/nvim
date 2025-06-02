@@ -55,7 +55,7 @@ return {
             sections = {
                 {
                     section = "terminal",
-                    cmd = "chafa /home/mivanchenko/.config/pupsik.jpg --format symbols --symbols vhalf --size 60x17 --stretch; sleep .1",
+                    cmd = "chafa ~/.config/nvim/pupsik.jpg --format symbols --symbols vhalf --size 60x17 --stretch; sleep .1",
                     height = 17,
                     padding = 5,
                     -- pane = 2,
