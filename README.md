@@ -1,3 +1,9 @@
+#### Dependencies
+
+```bash
+sudo apt install cowsay chafa fortune -y
+```
+
 #### If git is installed 
 ```bash
 cd ~/.config
